@@ -1,3 +1,5 @@
+test:
+  name: test
 application:
   version: 0.0.4-SNAPSHOT
   title: product-ms
