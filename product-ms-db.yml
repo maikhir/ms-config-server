@@ -1,5 +1,5 @@
 test:
-  name: test
+  name: test_maik
 application:
   version: 0.0.4-SNAPSHOT
   title: product-ms
